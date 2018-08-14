@@ -346,3 +346,4 @@ LogInit: Object subsystem initialized
 [2018.08.14-02.35.31:963][690]SourceControl: Commited [master 790b339] Delete Mat.
 [2018.08.14-02.37.26:024][344]LogSavePackage: Moving 'C:/Users/esahn/Documents/Unreal Projects/FPS/Saved/ThirdPersonExampleMapF8B921B34DFF4B960B1174AA270A8357.tmp' to 'C:/Users/esahn/Documents/Unreal Projects/FPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2018.08.14-02.37.26:398][344]LogSavePackage: Moving 'C:/Users/esahn/Documents/Unreal Projects/FPS/Saved/ThirdPersonExampleMap_BuiltData4BD7B99E4FF40CACC739EC92DAFAD5FF.tmp' to 'C:/Users/esahn/Documents/Unreal Projects/FPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.14-02.39.14:277][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
