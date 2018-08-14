@@ -328,3 +328,12 @@ LogInit: Object subsystem initialized
 [2018.08.14-02.16.54:089][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.08.14-02.16.54:089][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
 [2018.08.14-02.16.58:524][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.14-02.20.22:600][  5]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.14-02.20.22:862][  5]LogSavePackage: Moving 'C:/Users/esahn/Documents/Unreal Projects/FPS/Saved/ThirdPersonExampleMap45C3B0B54AF79F5473CABC8660EF416A.tmp' to 'C:/Users/esahn/Documents/Unreal Projects/FPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.14-02.20.23:228][  5]LogSavePackage: Moving 'C:/Users/esahn/Documents/Unreal Projects/FPS/Saved/ThirdPersonExampleMap_BuiltDataBC3AD2F34B42D816342C56B14B6FA761.tmp' to 'C:/Users/esahn/Documents/Unreal Projects/FPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.14-02.20.26:836][395]SourceControl: fatal: E:/Unreal/Unreal Engine/UE_4.20/Engine/Content: 'E:/Unreal/Unreal Engine/UE_4.20/Engine/Content' is outside repository
+[2018.08.14-02.20.32:225][395]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.14-02.20.33:856][395]LogSourceControl: commit successful: [master 89409bb] New Mat
+[2018.08.14-02.20.33:922][395]SourceControl: [master 89409bb] New Mat
+[2018.08.14-02.20.33:922][395]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.08.14-02.20.33:929][395]SourceControl: Commited [master 89409bb] New Mat.
