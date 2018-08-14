@@ -333,3 +333,30 @@ LogInit: Object subsystem initialized
 [2018.08.14-02.21.24:534][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.08.14-02.21.24:535][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
 [2018.08.14-02.21.55:475][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.14-02.23.28:259][786]LogMaterial: Display: Missing cached shader map for material yougay, compiling. 
+[2018.08.14-02.23.28:305][786]LogMaterial: Display: Missing cached shader map for material noimnot, compiling. 
+[2018.08.14-02.23.28:340][786]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.14-02.23.28:340][786]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.14-02.23.28:340][786]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.14-02.23.29:056][786]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.14-02.23.30:394][786]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.14-02.23.30:412][786]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.14-02.23.30:419][786]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.14-02.23.30:857][786]SourceControl: rm 'Content/test/noimnot.uasset'
+[2018.08.14-02.23.30:857][786]SourceControl: rm 'Content/test/yougay.uasset'
+[2018.08.14-02.23.31:176][823]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.14-02.23.40:160][415]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.14-02.23.41:017][415]SourceControl: rm 'Content/GAYBOI/NewMaterial.uasset'
+[2018.08.14-02.23.46:939][919]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.14-02.23.49:545][919]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.14-02.23.51:015][ 65]LogSavePackage: Moving '../../../../../../Users/Zain/Documents/Unreal Projects/FPS/Saved/ThirdPersonExampleMapF967E4A943B35FD1E58154BD2878A1BF.tmp' to '../../../../../../Users/Zain/Documents/Unreal Projects/FPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.14-02.23.51:044][ 65]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.198
+[2018.08.14-02.23.52:760][267]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.14-02.24.01:342][267]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.14-02.24.02:123][267]LogSourceControl: commit successful: [master aef56ec] deleted garbage
+[2018.08.14-02.24.02:233][267]SourceControl: [master aef56ec] deleted garbage
+[2018.08.14-02.24.02:233][267]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.08.14-02.24.02:233][267]SourceControl:  delete mode 100644 Content/GAYBOI/NewMaterial.uasset
+[2018.08.14-02.24.02:233][267]SourceControl:  delete mode 100644 Content/test/noimnot.uasset
+[2018.08.14-02.24.02:233][267]SourceControl:  delete mode 100644 Content/test/yougay.uasset
+[2018.08.14-02.24.02:239][267]SourceControl: Commited [master aef56ec] deleted garbage.
